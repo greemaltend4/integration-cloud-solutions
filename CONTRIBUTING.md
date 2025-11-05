@@ -11,5 +11,6 @@ Nous nous engageons à fournir un environnement convivial et accueillant pour to
 3. Commitez vos changements (`git commit -m 'Ajout de ma fonctionnalité'`)
 4. Poussez votre branche (`git push origin ma-fonctionnalite`)
 5. Ouvrez une Pull Request
+6. Exécutez les tests pour vérifier que tout fonctionne correctement avant de soumettre votre PR.
 
 Merci encore pour votre intérêt et vos contributions !
