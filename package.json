@@ -1,7 +1,7 @@
 {
   "name": "integration-cloud-solutions",
   "version": "1.0.0",
-  "description": "Projet d'intégration de solutions cloud",
+  "description": "Project for integrating cloud solutions with a focus on performance and scalability.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
